@@ -1,4 +1,4 @@
-# Gerenciador de Livros Etec - React.js
+# Gerenciador de Livros Etec - React.js 
 
 Uma aplicação web para gerenciar o acervo de livros da Etec, permitindo cadastro, edição, exclusão e busca de livros.
 
